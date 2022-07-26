@@ -1,0 +1,19 @@
+h2 {
+	text-align: center;
+	background-color: lightgreen;
+	color: darkred;
+	border: 5px;
+	font-style: italic;
+	font-size: bold;
+}
+body{
+background-image: url(https://www.targetadmission.com/img/logos/2239915007.jpg) ;
+background-repeat: no-repeat;
+background-size: cover;
+background-size: 350px;
+background-position: center;
+ background-attachment: fixed;
+}
+p{
+	text-transform: uppercase;
+}
