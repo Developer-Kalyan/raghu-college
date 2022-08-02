@@ -1,5 +1,5 @@
 function checkDriverAge(){
-    var first = prompt("What is your age?");
+	var first = prompt("What is your age?");
     if (first <"18"){
         alert("Sorry, you are too young to drive this car. Powering off");}
 else if(first==="18"){
